@@ -1,0 +1,5 @@
+Invoices unpaid after 30 days incur 2% monthly interest.
+After 60 days, accounts are escalated to collections.
+Invoices above 50000 require manager approval.
+Invoices overdue more than 90 days may be written off.
+Vendor payments are processed within 15 business days.
